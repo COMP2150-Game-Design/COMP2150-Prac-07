@@ -18,7 +18,7 @@ Now that you have a completed level, spend some time reviewing its design. A por
 
 ### Theme and Practicality
 * What kind of platformer have you made? Is it action, puzzle, precision, etc.? Something else? Does the game have a clear "theme" in terms of gameplay and challenge type? If not, can you make this more cohesive?
-* The spec called for the first section of the game to introduce the player to all the main mechanics. Is this true? Is there anything left out that should be added in? If so, how will you do it?
+* The spec called for the first section of the game to introduce the player to all the main mechanics. Does your level do this? Is there anything left out that should be added in? If so, how will you do it?
 * Does the level "end"? Did you put in the keys and an end door?
 * Does the level's difficulty conform to the assignment spec? Does it take approximately 5-6 minutes to play?
 * Did you create your entire level in 1 scene, and is it named "Main"? Is there any ambiguity for your marker as to what scene to mark?
