@@ -9,7 +9,7 @@ Today's task uses (but is not limited to):
 * Visual Studio Code or another text editor for your document
 
 ## Assignment deliverable
-Today you will be working on finishing up your assignment: doing some final week edits to your level, and organising your documentation.
+Today you will be working on finishing up your assignment: doing some final edits to your level, and organising your documentation.
 
 Depending on where you are up to, you might want to start at a different stage here. You may also be running a bit behind, and find it useful to spend time on Week 5 or 6 tasks. This is about what you can do to get your assignment ready for submission. For this reason, I have removed timings from this prac, but the intention is you'll spend about equal time on each of these tasks. If you are unsure, call over your teacher and have a chat.
 
