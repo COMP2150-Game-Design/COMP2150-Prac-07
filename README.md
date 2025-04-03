@@ -27,14 +27,14 @@ Now that you have a completed level, spend some time reviewing its design. A por
 * How is Discovery facilitated? Is the player given safe opportunities to experiment with mechanics before being challenged with them?
 * What is the dramatic pacing of the level? Can you map out each encounter's intensity, and is there good modulation? If not, how would you fix it?
 * Does the level challenge reflexes and problem-solving? How? Is challenge properly scaffolded and supported via the dramatic arc?
-* Is the play encouraged to explore via non-linearity? Where could you add some polish effects and scenery to help with this?
+* Is the player encouraged to explore via non-linearity? Where could you add some polish effects and scenery to help with this?
 
-If asking any of these questions prompt redesign, then carry that out now. This may involve the creation of new prototyping artefacts, or at this stage you may be able to just make these changes in the scene itself. Make sure you note down these changes so you can discuss them in your design doc.
+If asking any of these questions prompt redesign, then carry that out now. This may involve the creation of new prototyping artefacts, or you may be able to just make these changes in the scene itself. Make sure you note down these changes so you can discuss them in your design doc.
 
 ## Polish effects and scenery
 So far, we've focused exclusively on the level layout and how that supports our experience goals. However, it's also important to think about how certain scenery and polish effects can augment these experience goals and appropriately lead our player through the level.
 
-There's a large variety of scenery images and VFX that you can add to your scene to elaborate on the level's fiction (such as placing a crashed spaceship near the weapon pick-ups) or guide the player forward (such as placing light shafts to indicate the player needs to go up). Have a look in the following folders for images and affects you can add into your scene:
+There's a large variety of scenery images and VFX that you can add to your scene to elaborate on the level's fiction (such as placing a crashed spaceship near the weapon pick-ups) or guide the player forward (such as placing light shafts to indicate the player needs to go up). Have a look in the following folders for images and VFX you can add into your scene:
 
 * `Assets > 2DGameKit > Prefabs > VFX > Environment` (for environmental effects)
 * `Assets > 2DGameKit > Art > Sprites > Environment` (for non-interactable set-dressings)
@@ -49,12 +49,12 @@ Finally (and this is a big one!) consider the player's view at all times. Can th
 Do a final round of playtesting with a peer. Using the questions from the first section of today's prac, provide feedback to your peer on their level. Be thorough, kind, and constructive.
 
 ## Organising your documentation
-Spend the rest of the lesson getting your documentation together. If you have not yet started on your report, now is a good time to do so, even if you are just answering with dot points for now to flesh out later. Make sure all your forms of prototyping are captured and inside your repo, linked up where relevant in your design doc. If you have been following an iterative design process, you should already have enough artefacts to meet the three prototype minimum threshold, but make sure you are including any additional design artefacts as well - it'd be great to hear about different ways you are prototyping!
+Spend the rest of the lesson getting your documentation together. If you have not yet started on your design document, now is a good time to do so. Make sure all your forms of prototyping are captured and inside your repo, linked up where relevant in your design doc. If you have been following an iterative design process, you should already have enough artefacts to meet the three prototype minimum threshold, but make sure you are including any additional design artefacts as well - it'd be great to hear about different ways you are prototyping!
 
 Finally, make sure all Generative AI uses are declared and evidenced appropriately.
 
 ## After class
-You have until the assignment due date to submit. This means after class you still have time to do some work! No matter how far ahead or behind you might feel you are, there's opportunities or improvement or to catch-up. Have a think about what your plan is to get you over the finish line on time. If you have any questions, please reach out to unit staff.
+You have until the assignment due date to submit. This means after class you still have time to do some work! No matter how far ahead or behind you might feel you are, there's opportunities for improvement or to catch-up. Have a think about what your plan is to get you over the finish line on time. If you have any questions, please reach out to unit staff.
 
 ## Next Week
 Next week, we will be moving on from Unity and looking at the tools used in the final assignment for this unit.
