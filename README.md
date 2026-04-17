@@ -1,4 +1,4 @@
-# Week 8 - Feedback Review and PlayingCards.io Introduction
+# Week 7 - Feedback Review and PlayingCards.io Introduction
 Today you will be given the chance to go over your Level Design Assignment feedback with your instructor and begin exploring the playingcards.io tool you will be using for the final assignment.
 
 Today is less prescriptive than the previous weeks. We want to give you a chance to play around with the tools within playingcards.io, and so are not suggesting an exact deliverable or thing to finish today. Experiment, have fun, and learn the ins-and-outs of the tool!
